@@ -1,0 +1,23 @@
+{
+  "name": "node-scraper",
+  "version": "1.0.0",
+  "description": "Simple node.js web scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrahamSM/node-scraper.git"
+  },
+  "author": "GrahamSM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrahamSM/node-scraper/issues"
+  },
+  "homepage": "https://github.com/GrahamSM/node-scraper#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  }
+}
